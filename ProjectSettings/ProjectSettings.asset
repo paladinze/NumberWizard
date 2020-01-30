@@ -591,10 +591,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: b038a349-e403-4efb-8bed-551e3671525f
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: NumberWizard
+  organizationId: paladinze
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
